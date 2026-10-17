@@ -1,6 +1,6 @@
 # Scripts
 
-Personal collection of scripts I use. Nothing fancy, just stuff I got tired of retyping.
+Personal collection of scripts I use. 
 
 ## Usage
 
