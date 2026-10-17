@@ -2,12 +2,6 @@
 
 Personal collection of scripts I use. Nothing fancy, just stuff I got tired of retyping.
 
-## Contents
-
-| Script | What it does |
-|--------|--------------|
-| [`Setuplogin/`](./Setuplogin) | Sets up terminal session logging |
-
 ## Usage
 
 Clone and run whatever you need:
